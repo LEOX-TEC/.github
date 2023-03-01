@@ -1,4 +1,4 @@
 # LeoxTec - Engineering IoT Solutions
 
 
-### Helping you to craft your smart device and connect it to the world!
+### Helping you to craft your smart devices and connect the to the world!
